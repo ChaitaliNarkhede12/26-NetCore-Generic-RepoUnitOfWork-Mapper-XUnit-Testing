@@ -1,0 +1,15 @@
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\QSS.TCCS.DataAccess.deps.json
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\QSS.TCCS.DataAccess.runtimeconfig.json
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\QSS.TCCS.DataAccess.runtimeconfig.dev.json
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\QSS.TCCS.DataAccess.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\ref\QSS.TCCS.DataAccess.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\bin\Debug\net5.0\QSS.TCCS.DataAccess.pdb
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.AssemblyInfoInputs.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.AssemblyInfo.cs
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.csproj.CoreCompileInputs.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\ref\QSS.TCCS.DataAccess.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.pdb
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.genruntimeconfig.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.DataAccess\obj\Debug\net5.0\QSS.TCCS.DataAccess.csproj.AssemblyReference.cache

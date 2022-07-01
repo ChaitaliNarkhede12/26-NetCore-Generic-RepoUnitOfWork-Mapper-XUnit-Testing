@@ -1,0 +1,15 @@
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\QSS.TCCS.Application.deps.json
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\QSS.TCCS.Application.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\ref\QSS.TCCS.Application.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\QSS.TCCS.Application.pdb
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\QSS.TCCS.DataAccess.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\bin\Debug\net5.0\QSS.TCCS.DataAccess.pdb
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.csproj.AssemblyReference.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.AssemblyInfoInputs.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.AssemblyInfo.cs
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.csproj.CoreCompileInputs.cache
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.csproj.CopyComplete
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\ref\QSS.TCCS.Application.dll
+D:\Chaitali\Projects\QSS.TCCS\QSS.TCCS.Application\obj\Debug\net5.0\QSS.TCCS.Application.pdb
